@@ -1,30 +1,165 @@
 <h1 align="center">Hi 👋, I'm Koushik Das</h1>
-<h3 align="center">A passionate Application Developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mkdroid" alt="mkdroid" /></a> </p>
+<h3 align="center">
+🚀 Full Stack Mobile App Developer | Android • Flutter • PHP Laravel
+</h3>
 
-- 🌱 I’m currently learning **Swift**
-
-- 👨‍💻 All of my projects are available at [https://www.freelancer.com/u/mkdroid1229](https://www.freelancer.com/u/mkdroid1229)
-
-- 💬 Ask me about **Android, PHP, Database, Java and Flutter**
-
-- 📫 How to reach me **koushikworlddas@gmail.com**
-
-- 📄 Know about my experiences [https://www.upwork.com/freelancers/koushikdasmss](https://www.upwork.com/freelancers/koushikdasmss)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/koushik-das-12bb5662" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="koushik-das-12bb5662" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/10994595/koushik-das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10994595/koushik-das" height="30" width="40" /></a>
-<a href="https://www.behance.net/mikosoftwareservices" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="mikosoftwareservices" height="30" width="40" /></a>
-<a href="https://youtube.com/@creativevideo-cv08?si=Q2vhRdwPvvPiTq1U" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@creativevideo-cv08?si=q2vhrdwpvvpitq1u" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/koushikworlddas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="koushikworlddas" height="30" width="40" /></a>
+<p align="center">
+Passionate about building scalable mobile applications, backend systems, and modern digital products.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mkdroid&show_icons=true&locale=en&layout=compact" alt="mkdroid" /></p>
+## 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mkdroid&show_icons=true&locale=en" alt="mkdroid" /></p>
+- 🔭 Working as a **Full Stack Application Developer**
+- 🌱 Currently learning **Swift & iOS Development**
+- 📱 Specialized in:
+  - Native Android (**Java & Kotlin**)
+  - Flutter Cross Platform Apps
+  - Backend Development with **PHP, Laravel & CodeIgniter**
+  - REST APIs & Database Design
+- 💬 Ask me about:
+  - Android Architecture
+  - Flutter Performance Optimization
+  - Laravel APIs
+  - Firebase Integration
+  - Payment Gateway Integration
+  - Video Streaming Apps
+- ⚡ I love building:
+  - OTT Platforms
+  - Service Booking Apps
+  - E-Commerce Solutions
+  - Admin Panels
+  - Real-time Applications
+
+---
+
+## 🌐 Portfolio & Profiles
+
+<p align="left">
+  
+<a href="https://www.freelancer.com/u/mkdroid1229" target="_blank">
+<img src="https://img.shields.io/badge/Freelancer-Profile-blue?style=for-the-badge&logo=freelancer" />
+</a>
+
+<a href="https://www.upwork.com/freelancers/koushikdasmss" target="_blank">
+<img src="https://img.shields.io/badge/Upwork-Profile-brightgreen?style=for-the-badge&logo=upwork" />
+</a>
+
+<a href="https://www.behance.net/mikosoftwareservices" target="_blank">
+<img src="https://img.shields.io/badge/Behance-Designs-1769FF?style=for-the-badge&logo=behance" />
+</a>
+
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/koushik-das-12bb5662" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="45" />
+</a>
+
+<a href="https://stackoverflow.com/users/10994595/koushik-das" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" height="45" />
+</a>
+
+<a href="https://youtube.com/@creativevideo-cv08?si=Q2vhRdwPvvPiTq1U" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=youtube" height="45" />
+</a>
+
+<a href="https://auth.geeksforgeeks.org/user/koushikworlddas" target="blank">
+<img align="center" src="https://img.icons8.com/color/48/GeeksforGeeks.png" height="45" />
+</a>
+
+</p>
+
+---
+
+# 🚀 Tech Stack
+
+### 📱 Mobile Development
+<p align="left">
+<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,flutter,dart" />
+</p>
+
+### 💻 Backend Development
+<p align="left">
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,firebase" />
+</p>
+
+### 🎨 UI/UX & Designing
+<p align="left">
+<img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator" />
+</p>
+
+### 🛠 Tools & Technologies
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+</p>
+
+---
+
+# 📂 Featured Projects
+
+### 🎬 OTT & Video Streaming Applications
+- DRM Protected Video Streaming
+- Fullscreen Media Player Customization
+- Subscription Systems
+- Multi-device Authentication
+
+### 💅 Service Booking Platforms
+- Real-time Booking System
+- Beautician/Home Service Apps
+- Cart & Dynamic Service Modification
+- Online & Offline Payment Support
+
+### 🛒 E-Commerce Solutions
+- Product Management
+- Order Tracking
+- Payment Gateway Integration
+- Admin Dashboard
+
+### 🏢 Business Websites & Admin Panels
+- Laravel Admin Panels
+- Dynamic CMS Systems
+- SEO Friendly Websites
+- Analytics Dashboard
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=mkdroid&show_icons=true&theme=tokyonight" alt="stats" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mkdroid&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="langs" />
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=mkdroid&theme=onedark&row=1&column=7" />
+</p>
+
+---
+
+# 📫 Contact Me
+
+📧 **Email:** koushikworlddas@gmail.com
+
+💼 Open for:
+- Freelance Projects
+- Long-term Contracts
+- Mobile App Development
+- Backend/API Development
+- Startup Collaborations
+
+---
+
+<p align="center">
+✨ Turning Ideas Into Scalable Digital Products ✨
+</p>
