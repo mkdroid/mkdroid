@@ -34,9 +34,9 @@
 
 ## 👨‍💻 About Me
 
-I'm **Koushik Das**, a **Solution Architect and software professional with 9+ years of experience** in designing and developing mobile, web and backend solutions.
+I'm **Koushik Das**, a **Solution Architect and software professional with 10+ years of experience** in designing and developing mobile, web, and backend solutions.
 
-I work across the complete software development lifecycle — from **requirements analysis and solution architecture to application development, API integration, database design, deployment and production support**.
+I work across the complete software development lifecycle — from **requirements analysis and solution architecture to application development, API integration, database design, deployment, and production support**.
 
 My primary focus is building software that is:
 
@@ -108,7 +108,7 @@ I enjoy solving complex technical problems and transforming ideas and business r
 
 ### 🏗️ Solution Architecture
 
-Designing application architecture, API structures, database models and technology strategies for scalable products.
+Designing application architecture, API structures, database models, and technology strategies for scalable products.
 
 </td>
 <td width="50%">
@@ -159,7 +159,7 @@ Exploring practical applications of AI to create smarter and more engaging digit
 
 # 🚀 Selected Projects
 
-A selection of mobile, web and business applications I've worked on.
+A selection of mobile, web, and business applications I've worked on.
 
 ---
 
@@ -275,7 +275,7 @@ Testing, deployment, monitoring and continuous improvement.
 </tr>
 </table>
 
-> My goal is to create systems that are **simple to understand, easy to maintain and capable of evolving with the product**.
+> My goal is to create systems that are **simple to understand, easy to maintain, and capable of evolving with the product**.
 
 ---
 
