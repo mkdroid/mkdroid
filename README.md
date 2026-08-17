@@ -12,11 +12,11 @@
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 &nbsp;
-<a href="https://www.mikosoftwareservices.com/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+<a href="https://www.upwork.com/freelancers/koushikdasmss">
+<img src="https://img.shields.io/badge/Upwork-Hire%20Me-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork">
 </a>
 &nbsp;
-<a href="mailto:contact@mikosoftwareservices.com">
+<a href="mailto:koushikworkddas@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
@@ -32,22 +32,22 @@
 
 I'm **Koushik Das**, a **Solution Architect and software professional with 9+ years of experience** in designing and developing mobile, web and backend solutions.
 
-I enjoy working across the complete software development lifecycle — from **understanding requirements and designing architecture to implementing applications, APIs, databases, integrations and production systems**.
+I work across the complete software development lifecycle — from **requirements analysis and solution architecture to application development, API integration, database design, deployment and production support**.
 
 My primary focus is building software that is:
 
-* 🏗️ **Well-architected**
-* 📈 **Scalable**
-* 🔐 **Secure**
-* ⚡ **Performant**
-* 🧩 **Maintainable**
-* 🚀 **Production-ready**
+* 🏗️ Well-architected
+* 📈 Scalable
+* 🔐 Secure
+* ⚡ Performant
+* 🧩 Maintainable
+* 🚀 Production-ready
 
-I particularly enjoy solving problems where **product requirements, application architecture and engineering implementation** come together.
+I enjoy solving complex technical problems and transforming ideas and business requirements into **reliable, scalable digital products**.
 
 ---
 
-## 🛠️ Technology Stack
+# 🧰 Technology Stack
 
 ### 📱 Mobile Development
 
@@ -96,7 +96,7 @@ I particularly enjoy solving problems where **product requirements, application 
 
 ---
 
-## 🧠 What I Specialize In
+# 🧠 What I Specialize In
 
 <table>
 <tr>
@@ -111,7 +111,7 @@ Designing application architecture, API structures, database models and technolo
 
 ### 📱 Mobile Applications
 
-Building modern Android, iOS and Flutter applications with clean architecture and production-ready integrations.
+Building modern Android, iOS and Flutter applications with clean architecture, API integration and production-ready implementations.
 
 </td>
 </tr>
@@ -128,7 +128,7 @@ Developing REST APIs, authentication systems, business logic, database architect
 
 ### 💳 Payments & Subscriptions
 
-Working with payment gateways, in-app purchases, subscriptions, webhooks and transaction workflows.
+Payment gateways, in-app purchases, subscriptions, webhooks and transaction workflows.
 
 </td>
 </tr>
@@ -155,87 +155,116 @@ Exploring practical applications of AI to create smarter and more engaging digit
 
 # 🚀 Selected Projects
 
-Here are some of the projects and products I've worked on across different domains.
-
-### 🐔 Poultry Rates
-
-A market-rate mobile application providing poultry market information with a membership and subscription system.
-
-**Android · Kotlin · Jetpack Compose · Laravel · MySQL · Google Play Billing**
+A selection of mobile, web and business applications I've worked on.
 
 ---
 
-### 🤖 KidzenAI
+## 💇 Ladyfair
 
-An AI-powered educational application designed to help young learners practice through mock tests and interactive learning experiences.
+A **salon services and beauty marketplace application** connecting customers with beauty and salon services while also supporting product purchases.
 
-**Flutter · Dart · AI · Firebase · PHP · MySQL**
+**Focus:** Beauty Services · Marketplace · Mobile Application
 
----
-
-### 🧾 Smart Bill Pro
-
-A modern cross-platform billing and business-management application designed with a scalable architecture.
-
-**Flutter · Dart · Firebase · REST APIs**
+**Technology:** Android · iOS · Flutter · PHP · MySQL · REST APIs
 
 ---
 
-### 💳 Payment & Business Platforms
+## 🦷 Yasko Dental Hospital
 
-Experience building applications involving:
+A **dental healthcare platform** designed to support patients and healthcare-service workflows through a digital experience.
 
-* Payment gateway integrations
-* Recharge platforms
-* Subscription systems
-* E-commerce
-* Booking systems
-* Delivery platforms
-* Service platforms
-* Business management systems
-* Administrative dashboards
+**Focus:** Healthcare · Appointment Management · Patient Services
+
+**Technology:** Mobile Application · Backend APIs · Database · Web Platform
 
 ---
 
-# 🏛️ How I Approach Software Development
+## 🐔 Poultry Rates
 
-I believe good software development is more than writing code.
+A market-rate application providing poultry market information with a **membership and subscription system**.
+
+**Focus:** Market Information · Subscription · Mobile Application
+
+**Technology:** Kotlin · Jetpack Compose · Laravel · MySQL · Google Play Billing
+
+---
+
+## 🤖 KidzenAI
+
+An **AI-powered educational application** designed to help young learners practice through mock tests and interactive learning experiences.
+
+**Focus:** Education · AI · Mock Tests · Learning
+
+**Technology:** Flutter · Dart · AI · Firebase · PHP · MySQL
+
+---
+
+## 🧾 Smart Bill Pro
+
+A modern **cross-platform billing and business-management application** designed around a scalable application architecture.
+
+**Focus:** Billing · Business Management · Cross-platform Application
+
+**Technology:** Flutter · Dart · Firebase · REST APIs
+
+---
+
+## 💳 Business & Payment Platforms
+
+I've also worked on applications and platforms involving:
+
+* 💳 Payment gateway integrations
+* 🔄 Recharge & transaction platforms
+* 📦 E-commerce systems
+* 📅 Booking & appointment platforms
+* 🚚 Delivery applications
+* 🏢 Business management systems
+* 📊 Admin dashboards
+* 🔐 Authentication & authorization systems
+* 🔔 Push notifications & communication systems
+* 💰 Subscription & membership systems
+
+---
+
+# 🏗️ Engineering Approach
+
+I believe good software engineering is about more than writing code.
 
 ```text
-             ┌──────────────────┐
-             │  Business Idea   │
-             └────────┬─────────┘
-                      │
-                      ▼
-             ┌──────────────────┐
-             │   Requirements   │
-             └────────┬─────────┘
-                      │
-                      ▼
-             ┌──────────────────┐
-             │    Architecture  │
-             └────────┬─────────┘
-                      │
-          ┌───────────┼───────────┐
-          ▼           ▼           ▼
-       Mobile        Web        Backend
-          │           │           │
-          └───────────┼───────────┘
-                      │
-                      ▼
-             ┌──────────────────┐
-             │ Testing & Quality│
-             └────────┬─────────┘
-                      │
-                      ▼
-             ┌──────────────────┐
-             │    Deployment    │
-             └────────┬─────────┘
-                      │
-                      ▼
-             ┌──────────────────┐
-             │   Improvement    │
-             └──────────────────┘
+                 ┌──────────────────┐
+                 │  Business Idea   │
+                 └────────┬─────────┘
+                          │
+                          ▼
+                 ┌──────────────────┐
+                 │   Requirements   │
+                 └────────┬─────────┘
+                          │
+                          ▼
+                 ┌──────────────────┐
+                 │    Architecture  │
+                 └────────┬─────────┘
+                          │
+             ┌────────────┼────────────┐
+             ▼            ▼            ▼
+          Mobile         Web        Backend
+             │            │            │
+             └────────────┼────────────┘
+                          │
+                          ▼
+                 ┌──────────────────┐
+                 │ Testing & Quality│
+                 └────────┬─────────┘
+                          │
+                          ▼
+                 ┌──────────────────┐
+                 │    Deployment    │
+                 └────────┬─────────┘
+                          │
+                          ▼
+                 ┌──────────────────┐
+                 │   Improvement    │
+                 └──────────────────┘
 ```
 
 My goal is to create systems that are **simple to understand, easy to maintain and capable of evolving with the product**.
@@ -275,7 +304,7 @@ My goal is to create systems that are **simple to understand, easy to maintain a
 
 # 💼 Professional Interests
 
-I'm interested in working on challenging problems involving:
+I'm interested in challenging problems involving:
 
 **Mobile Applications** · **Web Platforms** · **Backend Systems** · **SaaS Products** · **AI Applications** · **Payment Systems** · **Business Automation**
 
@@ -293,12 +322,12 @@ I'd be happy to connect and discuss how technology can turn the idea into a scal
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 &nbsp;
-<a href="https://github.com/mkdroid">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white">
+<a href="https://www.upwork.com/freelancers/koushikdasmss">
+<img src="https://img.shields.io/badge/Upwork-Hire%20Me-14A800?style=for-the-badge&logo=upwork&logoColor=white">
 </a>
 &nbsp;
-<a href="https://www.mikosoftwareservices.com/">
-<img src="https://img.shields.io/badge/Website-Visit-111827?style=for-the-badge&logo=google-chrome&logoColor=white">
+<a href="mailto:koushikworkddas@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 <br><br>
