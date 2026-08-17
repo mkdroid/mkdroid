@@ -8,7 +8,7 @@
 
 <br>
 
-<a href="https://www.linkedin.com/in/koushik-das-12bb5662/">
+<a href="https://www.linkedin.com/in/koushik-das-mss/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 &nbsp;
@@ -318,7 +318,7 @@ I'd be happy to connect and discuss how technology can turn the idea into a scal
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/koushik-das-12bb5662/">
+<a href="https://www.linkedin.com/in/koushik-das-mss/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 &nbsp;
